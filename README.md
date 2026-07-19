@@ -127,3 +127,5 @@ All endpoints support standard DRF pagination, filtering by ID in the URL, and r
 ## 📄 License
 
 Free to use, modify, and extend for personal or commercial projects.
+
+![Uploading image.png…]()
