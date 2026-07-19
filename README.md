@@ -128,4 +128,5 @@ All endpoints support standard DRF pagination, filtering by ID in the URL, and r
 
 Free to use, modify, and extend for personal or commercial projects.
 
-![Uploading image.png…]()
+<img width="1886" height="842" alt="image" src="https://github.com/user-attachments/assets/41efad3a-0cfb-479e-88fb-1728ebb257c6" />
+
